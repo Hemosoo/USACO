@@ -1,0 +1,16 @@
+import java.util.*;
+import java.io.*;
+public class paint {
+	static Scanner in;
+	static PrintWriter out;
+	static 
+	public static void main(String[] args) {
+		
+	}
+	public static void init() {
+		
+	}
+	public static void solve() {
+		
+	}
+}

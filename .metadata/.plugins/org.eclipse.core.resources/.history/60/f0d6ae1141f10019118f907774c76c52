@@ -1,0 +1,21 @@
+import java.util.*;
+import java.io.*;
+public class paint {
+	static Scanner in;
+	static PrintWriter out;
+	static int a, b, c, d, a1[], b1[];
+	public static void main(String[] args) throws IOException {
+		in = new Scanner(new File("paint.in"));
+		out = new PrintWriter(new File("paint.out"));
+		init();
+		solve();
+		in.close();
+		out.close();
+	}
+	public static void init() {
+		
+	}
+	public static void solve() {
+		
+	}
+}
